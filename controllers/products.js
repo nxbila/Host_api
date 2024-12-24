@@ -31,7 +31,7 @@ const getAllProducts = async (req,res) => {
     console.log(queryObject);
 
     const Products = await apiData;
-    res.status(200).json({Products, nbHits:myData.length});
+    res.status(200).json({Products, nbHits:apiData.length});
 }
 const getAllProductsTesting = async (req,res) => {
     const myData = await Product.find({}).select("name company");
