@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Galaxy S22",
+        "price": 120,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "Pixel 7",
+        "price": 140,
+        "feature": true,
+        "company": "lenovo"
+    },
+    {
+        "name": "iphone",
+        "price": 150,
+        "company": "apple"
+    },
+    {
+        "name": "iphone16",
+        "price": 150,
+        "company": "apple"
+    },
+    {
+        "name": "MacBook Pro",
+        "price": 1299,
+        "company": "apple"
+    },
+    {
+        "name": "MacBook Pro",
+        "price": 1499,
+        "company": "apple"
+    },
+    {
+        "name": "Surface Pro",
+        "price": 999,
+        "company": "dell"
+    }
+]
