@@ -13,7 +13,7 @@
   "dependencies": {
     "api": "file:",
     "dotenv": "^16.4.7",
-    "express": "^4.21.1",
-    "mongoose": "^7.8"
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
   }
 }
